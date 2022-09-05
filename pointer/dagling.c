@@ -1,0 +1,1 @@
+// nasalelya object la assign karato tya dagling pointer.
